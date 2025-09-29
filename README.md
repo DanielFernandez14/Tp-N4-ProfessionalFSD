@@ -1,16 +1,27 @@
-# React + Vite
+# TP N°4 - Professional Full Stack Developer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Descripción breve
+Este proyecto corresponde al **Trabajo Práctico N°4** de la cursada **Professional Full Stack Developer**.  
+El objetivo fue desarrollar un componente reutilizable en React llamado **Tarjeta**, que recibe información mediante props (nombre, profesión, imagen y descripción) y la muestra estilada en CSS.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⚙️ Instrucciones de instalación y ejecución
 
-## React Compiler
+### 1️⃣ Clonar el repositorio
+```bash
+git clone https://github.com/DanielFernandez14/Tp-N4-ProfessionalFSD.git
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+cd Tp-N4-ProfessionalFSD
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+npm install
+```
+
+Luego abrir en el navegador la URL que indique la terminal (por defecto http://localhost:5173/).
+
+👨‍💻 Autor:
+Nombre: Daniel Fernández
+Curso: Professional Full Stack Developer
+Unidad: 4

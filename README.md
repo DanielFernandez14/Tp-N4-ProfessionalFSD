@@ -17,6 +17,9 @@ cd Tp-N4-ProfessionalFSD
 
 
 npm install
+
+
+npm run dev
 ```
 
 Luego abrir en el navegador la URL que indique la terminal (por defecto http://localhost:5173/).

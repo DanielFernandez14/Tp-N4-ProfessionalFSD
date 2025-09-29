@@ -8,7 +8,7 @@ El objetivo fue desarrollar un componente reutilizable en React llamado **Tarjet
 
 ## ⚙️ Instrucciones de instalación y ejecución
 
-### 1️⃣ Clonar el repositorio
+###  Clonar el repositorio y ejecución
 ```bash
 git clone https://github.com/DanielFernandez14/Tp-N4-ProfessionalFSD.git
 
